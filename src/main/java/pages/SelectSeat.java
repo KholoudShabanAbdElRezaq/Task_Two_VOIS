@@ -3,7 +3,7 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
-
+//
 public class SelectSeat {
     private WebDriver webDriver;
     private By selectseatitem = By.xpath("//input[@id='SrvcSelectBtnForward0']");
