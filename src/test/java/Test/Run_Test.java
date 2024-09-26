@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import pages.SelectSeat;
 
 public class Run_Test extends BaseClass {
-
+//
     @Test
     public void TC()
     {
